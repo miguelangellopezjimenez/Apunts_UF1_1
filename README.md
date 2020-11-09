@@ -29,13 +29,11 @@
 
 <center>
 
-**TIPUS**  |  **QUE ÉS?**
+<center> **TIPUS**  |  **QUE ÉS?**
 --|--
 **CODI FONT**  |  És un arxiu de text llegible en un llenguatge de programació.
 **CODI OBJECTE**  |  És un arxiu binari el qual no és pot executar.
-**CODI EXECUTABLE**  |  És un arxiu binari el qual és pot executar.
-
-</center>
+**CODI EXECUTABLE**  |  És un arxiu binari el qual és pot executar. </center>
 
 ## **CICLE DE VIDA DEL SOFTWARE**
 
