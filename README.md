@@ -79,7 +79,7 @@ Hi ha dos tipus de prototips:
 
 - **PROTOTIP EVOLUTIU:** aquest tipus de prototip està desenvolupat en el mateix llenguatge i eines del projecte, s'utilitza coma a base per al desenvolupament del projecte.
 
-<img src="assets/prototips.png" alt="Prototips" width="800"/>
+<img src="assets/prototips.png" alt="Prototips" width="400"/>
 
 ### MODEL EN ESPIRAL
 
@@ -87,13 +87,13 @@ Aquest model va ser desenvolupat per **Boehm** en 1988.
 
 L'activitat d'enginyeria correspon a les fases dels models clàssics, anàlisis, disseny, codificació, proves i manteniment.
 
-<img src="assets/model_espiral.png" alt="Espiral" width="800"/>
+<img src="assets/model_espiral.png" alt="Espiral" width="600"/>
 
 #### MODEL EN ESPIRAL APLICAT A LA PROGRAMACIÓ ORIENTADA A OBJECTES
 
 En l'activitat de enginyeria es da gran importància a la reutilització de codi.
 
-<img src="assets/model_espiral2.png" alt="Espiral" width="800"/>
+<img src="assets/model_espiral2.png" alt="Espiral" width="600"/>
 
 ### METODOLOGIES ÀGILS
 
@@ -122,7 +122,7 @@ Controla per demanda la fabricació dels productes necessaris en la quantitat i 
 - Al principi de cada iteració s'estableixen els objectius prioritaris i al finalitzar-la s'obté una entrega parcial utilitzable per el client.
 - Es realitzen reunions diàries per tractar com va la iteració.
 
-<img src="assets/scrum.png" alt="Scrum" width="800"/>
+<img src="assets/scrum.png" alt="Scrum" width="600"/>
 
 #### CARACTERÍSTIQUES XP (PROGRAMACIÓ EXTREMA)
 
@@ -136,4 +136,4 @@ Controla per demanda la fabricació dels productes necessaris en la quantitat i 
 - Estàndard de codificació.
 - 40 hores setmanals.
 
-<img src="assets/xp2.png" alt="XP" width="800"/>
+<img src="assets/xp2.png" alt="XP" width="400"/>
