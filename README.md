@@ -59,11 +59,81 @@
 
 Aquest model es bastant rígid i no s'adapta bé als canvis continuats d'especificacions.
 
-![](assets/model_cascada.png)
-<img src="assets/model_cascada.png" alt="drawing" width="600"/>
+<img src="assets/model_cascada.png" alt="Model_Cascada" width="800"/>
 
 ### MODEL EN V
 
 És un model semblant al model en cascada, té una visió jerarquitzada amb diferents nivells, els nivells superiors indican major abstracció i els inferiors indican major detall.
 
-![](assets/model_v.png)
+<img src="assets/model_v.png" alt="Model_V" width="800"/>
+
+### PROTOTIPS
+
+És crea un prototip durant la fase d'anàlisis i es provat per l'usuari/client per a perfeccionar els requisits del software a desenvolupar.
+
+Aquest pas és repeteix totes les vegades que facin falta.
+
+Hi ha dos tipus de prototips:
+
+- **PROTOTIP RÀPID:** aquest tipus de prototip pot estar desenvolupat utilitzant un altre llenguatge i/o eines i finalment el prototip és rebutja.
+
+- **PROTOTIP EVOLUTIU:** aquest tipus de prototip està desenvolupat en el mateix llenguatge i eines del projecte, s'utilitza coma a base per al desenvolupament del projecte.
+
+<center> <img src="assets/prototips.png" alt="Prototips" width="600"/> </center>
+
+### MODEL EN ESPIRAL
+
+Aquest model va ser desenvolupat per Boehm en 1988.
+
+L'activitat d'enginyeria correspon a les fases dels models clàssics, anàlisis, disseny, codificació, proves i manteniment.
+
+<center> <img src="assets/model_espiral.png" alt="Prototips" width="600"/> </center>
+
+#### MODEL EN ESPIRAL APLICAT A LA PROGRAMACIÓ ORIENTADA A OBJECTES
+
+En l'activitat de enginyeria es da gran importància a la reutilització de codi.
+
+<center> <img src="assets/model_espiral2.png" alt="Prototips" width="600"/> </center>
+
+### METODOLOGIES ÀGILS
+
+Aquests mètodes d'enginyeria del software estan basats en el desenvolupament iteratiu e incremental, els requisits i solucions evolucionen amb el temps i segons les necessitats del projecte.
+
+El treball és realitzat mediant la col·laboració d'equips auto-organitzats i multidisciplinaris.
+
+#### TIPUS DE METODOLOGIES ÀGILS MÉS CONEGUDES
+
+- Kanban
+- Scrum
+- XP (eXtreme Programming)
+
+#### QUE ÉS KANBAN?
+
+Kanban, també anomenat "sistema de targetes" va ser desenvolupat inicialment per Toyota per a la industria de fabricació de productes.
+
+Controla per demanda la fabricació dels productes necessaris en la quantitat i temps necessaris, està enfocat a entregat el màxim valor per als clients utilitzant els recursos justos.
+
+<center> <img src="assets/kanban.png" alt="Kanban" width="800"/> </center>
+
+#### CARACTERÍSTIQUES SCRUM
+
+- Model de desenvolupament incremental.
+- Iteracions regulades cada 2, 3 o 4 setmanes.
+- Al principi de cada iteració s'estableixen els objectius prioritaris i al finalitzar-la s'obté una entrega parcial utilitzable per el client.
+- Es realitzen reunions diàries per tractar com va la iteració.
+
+<center> <img src="assets/scrum.png" alt="Scrum" width="800"/> </center>
+
+#### CARACTERÍSTIQUES XP (PROGRAMACIÓ EXTREMA)
+
+- Disseny senzill.
+- Petites millores continues.
+- Proves i re-factorització.
+- Integració continua.
+- Programació per parelles.
+- El client s'integra amb l'equip de desenvolupament.
+- Propietat del codi compartida.
+- Estàndard de codificació.
+- 40 hores setmanals.
+
+<center> <img src="assets/xp2.png" alt="Scrum" width="600"/> </center>
