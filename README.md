@@ -5,7 +5,7 @@
 <center>
 
 **TIPUS**  | **QUE ÉS?** |  **EXEMPLE**
---|---|--
+-------|--------|-------
 **DE SISTEMA**  | El software de sistema és un tipus que ens permet interactuar amb el hardware o altres programes.  |  Sistema operatiu, drivers.
 **APLICACIÓ**  | El software d'aplicació es aquell software que ens permet realitzar un conjunt de funcions.  |  Suite ofimàtica, navegador, edició d'imatge.
 **DESENVOLUPAMENT**  | El software de desenvolupament és aquell que ens permet desenvolupar aplicacions.  |  Editors, compiladors, interpretes.
