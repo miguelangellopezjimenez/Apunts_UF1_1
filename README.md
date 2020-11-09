@@ -2,13 +2,19 @@
 
 ## **TIPUS DE SOFTWARE**
 
+<center>
+
 **TIPUS**  | **QUE ÉS?** |  **EXEMPLE**
 --|---|--
 **DE SISTEMA**  | El software de sistema és un tipus que ens permet interactuar amb el hardware o altres programes.  |  Sistema operatiu, drivers.
 **APLICACIÓ**  | El software d'aplicació es aquell software que ens permet realitzar un conjunt de funcions.  |  Suite ofimàtica, navegador, edició d'imatge.
 **DESENVOLUPAMENT**  | El software de desenvolupament és aquell que ens permet desenvolupar aplicacions.  |  Editors, compiladors, interpretes.
 
+</center>
+
 ## **RELACIÓ HARDWARE-SOFTWARE**
+
+<center>
 
 **HARDWARE**  | **RELACIÓ**
 --|--
@@ -17,13 +23,19 @@
 **CPU**  |  Llegeix i executa les instruccions emmagatzemades en la memòria RAM i les dades necessàries.
 **E/S**  |  Agafa noves dades dels perifèrics d'entrada, es mostren els resultats, es llegeixen o guarden les dades a disc, etc.
 
+</center>
+
 ## **TIPUS DE CODI**
+
+<center>
 
 **TIPUS**  |  **QUE ÉS?**
 --|--
 **CODI FONT**  |  És un arxiu de text llegible en un llenguatge de programació.
 **CODI OBJECTE**  |  És un arxiu binari el qual no és pot executar.
 **CODI EXECUTABLE**  |  És un arxiu binari el qual és pot executar.
+
+</center>
 
 ## **CICLE DE VIDA DEL SOFTWARE**
 
@@ -39,6 +51,8 @@
 
 ## **RESULTAT DESPRÈS DE CADA FRASE**
 
+<center>
+
 **FASE**  | **RESULTAT**  
 --|--
 **ENGINYERIA DE SISTEMES**   |  Obtindrem les especificacions del sistema.
@@ -51,6 +65,8 @@
 **DOCUMENTACIÓ**  |  Documentació tant tècnica com d'usuari.
 **MANTENIMENT**  |  Tindrem els informes d'errors i control de canvis.
 
+</center>
+
 ## **MODELS DE DESENVOLUPAMENT DE SOFTWARE**
 
 ### MODEL EN CASCADA
@@ -59,13 +75,13 @@
 
 Aquest model es bastant rígid i no s'adapta bé als canvis continuats d'especificacions.
 
-<img src="assets/model_cascada.png" alt="Model_Cascada" width="800"/>
+<center> <img src="assets/model_cascada.png" alt="Model_Cascada" width="800"/> </center>
 
 ### MODEL EN V
 
 És un model semblant al model en cascada, té una visió jerarquitzada amb diferents nivells, els nivells superiors indican major abstracció i els inferiors indican major detall.
 
-<img src="assets/model_v.png" alt="Model_V" width="800"/>
+<center> <img src="assets/model_v.png" alt="Model_V" width="800"/> </center>
 
 ### PROTOTIPS
 
@@ -83,17 +99,17 @@ Hi ha dos tipus de prototips:
 
 ### MODEL EN ESPIRAL
 
-Aquest model va ser desenvolupat per Boehm en 1988.
+Aquest model va ser desenvolupat per **Boehm** en 1988.
 
 L'activitat d'enginyeria correspon a les fases dels models clàssics, anàlisis, disseny, codificació, proves i manteniment.
 
-<center> <img src="assets/model_espiral.png" alt="Prototips" width="600"/> </center>
+<center> <img src="assets/model_espiral.png" alt="Espiral" width="600"/> </center>
 
 #### MODEL EN ESPIRAL APLICAT A LA PROGRAMACIÓ ORIENTADA A OBJECTES
 
 En l'activitat de enginyeria es da gran importància a la reutilització de codi.
 
-<center> <img src="assets/model_espiral2.png" alt="Prototips" width="600"/> </center>
+<center> <img src="assets/model_espiral2.png" alt="Espiral" width="600"/> </center>
 
 ### METODOLOGIES ÀGILS
 
@@ -136,4 +152,4 @@ Controla per demanda la fabricació dels productes necessaris en la quantitat i 
 - Estàndard de codificació.
 - 40 hores setmanals.
 
-<center> <img src="assets/xp2.png" alt="Scrum" width="600"/> </center>
+<center> <img src="assets/xp2.png" alt="XP" width="600"/> </center>
