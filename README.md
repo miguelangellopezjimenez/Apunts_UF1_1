@@ -137,3 +137,79 @@ Controla per demanda la fabricació dels productes necessaris en la quantitat i 
 - 40 hores setmanals.
 
 <img src="assets/xp2.png" alt="XP" width="400"/>
+
+## **LLENGUATGES DE PROGRAMACIÓ**
+
+### OBTENCIÓ DEL CODI EXECUTABLE
+
+Per obtenir el codi binari executable tenim dues opcions:
+
+- **Compilar**: agafar tots els arxius del programa, passar-los per un compilador per poder traduir el codi font a codi executable per la màquina.
+- **Interpretar**: un interpret agafa les instruccions del codi font i les va convertint a codi executable per la màquina en temps real.
+
+### PROCESSOS DE COMPILACIÓ/INTERPRETACIÓ
+
+La compilació/interpretació del codi font és porta a terme en dues fases:
+
+  1. Anàlisis lèxic
+  2. Anàlisis sintàctic
+
+Si no existeixen errors, es genera el codi objecte corresponent, però un codi correctament escrit no significa que funcioni de la manera que nosaltres volem.
+
+### LLENGUATGES COMPILATS
+
+La principal avantatge que tenen els llenguatges compilats és que la seva execució és molt eficient, i per tant és més ràpid i eficient a l'hora de ser executat. El codi compilat es compacta en un únic arxiu executable.
+
+#### EXEMPLES DE LLENGUATGES COMPILATS
+
+Són llenguatges compilats: C, C++, C#, etc.
+
+### LLENGUATGES INTERPRETATS
+
+La principal avantatge que tenen els llenguatges compilats és que el codi font s'interpreta directament i per tant és pot executar en moltes plataformes diferents i són senzills d'entendre.
+
+#### EXEMPLES DE LLENGUATGES INTERPRETATS
+
+Són llenguatges interpretats: PHP, Javascript, Perl, Python.
+
+### TIPUS DE LLENGUATGES
+
+Hi ha tres tipus:
+
+- **Declaratius**: s'indica el resultat a obtenir sense especificar els passos a seguir per fer-ho.
+
+  Ni hi ha tres tipus de llenguatges declaratius:
+	- Els lògics que utilitzen regles com per exemple el llenguatge **Prolog**.
+	- Els funcionals que utilitzen funcions com els llenguatges **Lisp** i **Haskell**.
+	- Els algebraics que utilitzen sentencies com el **SQL**.
+
+
+- **Imperatius**: s'indica els passos a seguir per a obtenir el resultat.
+
+  També ni hi ha tres tipus de llenguatges imperatius:
+	- El llenguatges estructurats com per exemple **C**.
+	- Els llenguatges orientats a objectes com **Java**.
+	- Els llenguatges multi paradigma com **C++**.
+
+
+- Tipus de llenguatges segons nivell d'abstracció:
+
+  - Baix nivell: llenguatge assemblador.
+  - Alt nivell: **C**, **C++**, **Java**, etc.
+
+### EVOLUCIÓ DELS LLENGUATGES DE PROGRAMACIÓ
+
+Al principi és programava en codi binari, desprès en assemblador, desprès van aparèixer els llenguatges estructurats i finalment en l'actualitat han sortit el llenguatges orientats a objectes.
+
+### CRITERIS A SEGUIR PER A LA SELECCIÓ D'UN LLENGUATGE DE PROGRAMACIÓ
+
+Els criteris que podríem seguir a l’hora d’escollir un llenguatge de programació son ser els següents:
+
+- Camp d’aplicació, és a dir, quin és el propòsit de l’aplicació.
+- Experiència prèvia que tenim amb el llenguatge de programació en qüestió.
+- Quines eines de desenvolupament disposa aquest llenguatge de programació.
+- Si té disponible el llenguatge una bona documentació.
+- Si el llenguatge té una bona base d’usuaris actius.
+- Si el client vol que utilitzem un llenguatge en concret.
+- La portabilitat del codi que desenvolupem amb aquest llenguatge de programació.
+- Si es pot reutilitzar el codi que desenvolupem amb el llenguatge en qüestió.
